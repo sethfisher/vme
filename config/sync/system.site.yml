@@ -1,0 +1,14 @@
+uuid: 1f4f69c9-9e82-457b-b2ef-c4890f1e646e
+name: 'Video Media Entities - Colorbox Load'
+mail: noreply@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
